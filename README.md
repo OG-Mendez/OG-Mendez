@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OG-Mendez
 - 👀 I’m interested in Data Science and Machine Learning 
-- 🌱 I’m currently learning NoSQL
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects that will aid my learning 
 - 📫 How to reach me chinenyedavid781@gmail.com 
 
